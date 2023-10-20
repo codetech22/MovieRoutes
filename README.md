@@ -1,3 +1,6 @@
+Find the below steps to deploy the project. As main requirement is along with localhost should add /movie i.e localhost:3000/movie to run initially.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
