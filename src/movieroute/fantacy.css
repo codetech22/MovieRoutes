@@ -1,0 +1,7 @@
+.fan{
+    background-color: aqua;
+    border: 5px solid aqua;
+}
+.fan:hover{
+    cursor: pointer;
+}

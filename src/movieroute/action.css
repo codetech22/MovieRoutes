@@ -1,0 +1,7 @@
+.action{
+    background-color: burlywood;
+    border: 5 px solid burlywood;
+}
+.action:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.th{
+    background-color: navy;
+    border: 5px solid navy;
+}
+.th:hover{
+    cursor: pointer;
+}

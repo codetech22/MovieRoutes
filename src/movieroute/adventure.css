@@ -1,0 +1,7 @@
+.add{
+    background-color: springgreen;
+    border: 5px solid springgreen;
+}
+.add:hover{
+    cursor: pointer;
+}

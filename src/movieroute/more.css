@@ -1,0 +1,6 @@
+.more{
+    background-color: aqua;
+}
+.more:hover{
+    cursor: pointer;
+}

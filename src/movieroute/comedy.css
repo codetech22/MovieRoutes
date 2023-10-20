@@ -1,0 +1,7 @@
+.co{
+    background-color: seagreen;
+    border: 5px solid seagreen;
+}
+.co:hover{
+    cursor: pointer;
+}

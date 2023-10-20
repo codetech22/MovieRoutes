@@ -1,0 +1,6 @@
+.movie1{
+    border: 5px solid burlywood;
+}
+.movie1:hover{
+    cursor: pointer;
+}
